@@ -1,0 +1,940 @@
+﻿	1.	One of the purposes of the Uniform Commercial Code is to regulate
+A.	credit transactions. 	C.	economic policies.
+B.	business competition. 	D.	product development.
+
+	 2.	Top-Notch Wheels buys mountain bikes from The Great Colorado Mountain Bike Company and sells them to bike shops. Top-Notch Wheels is an example of a(n)
+A.	agent. 	C.	producer.
+B.	retailer. 	D.	wholesaler.
+
+	 3.	One way that businesses use technology to move products efficiently through the distribution chain is by
+A.	developing company web sites to promote product.
+B.	implementing an automatic identification system. 
+C.	tracking the shipping expenses in a database system.
+D.	encouraging the use of networked trading communities. 
+
+	 4.	Customer satisfaction, employee contentment, and profit can be directly linked to
+A.	ethical business practices. 	C.	prestigious pricing strategies.
+B.	paying higher wages than competitors.	D.	automated distribution centers.
+
+	 5.	Which of the following is a factor that a business should consider when selecting a channel of distribution:
+A.	Type of product 	C.	Credit policy
+B.	Return process 	D.	Size of sales force
+
+	 6.	Letters of inquiry that businesses write to other businesses are routine business communication and usually contain only
+A.	complex instructions. 	C.	confidential data. 
+B.	basic information. 	D.	technical explanations. 
+
+	 7.	A characteristic of a simple written report is that it usually is
+A.	detailed.  	C.	abstract. 
+B.	formal. 	D.	short. 
+
+	 8.	Which of the following is an example of a complex written report often used by large businesses to provide general and accounting information to stockholders:
+A.	Service report 	C.	News report
+B.	Annual report 	D.	Credit report
+
+	 9.	Accounting department managers can make sure that even an informal staff meeting is an effective use of time if the managers will
+A.	follow Robert's Rules of Order. 	C.	ask attendees to prepare agendas.
+B.	distribute minutes before starting.	D.	stick to a planned agenda.
+
+	10.	Which of the following is a factor that affects a business's selection of policies to guide its operations:
+A.	The accounting skills of employees 	C.	The nature of the business 
+B.	The personal preferences of management 	D.	The space available to display policies
+
+	11.	What type of product do consumers usually need more information about before buying in order to get the best price?
+A.	Specialty 	C.	Industrial
+B.	Shopping 	D.	Convenience
+
+	12.	In a market economic system, who owns most of the means of production of goods and services?
+A.	Political parties 	C.	Entrepreneurs
+B.	Businesses and individuals	D.	Government 
+
+	13.	If a government wants to decrease economic growth, it would use a contractionary fiscal policy that might involve 
+A.	increasing government spending. 	C.	decreasing regulations. 
+B.	increasing taxes. 	D.	decreasing unemployment. 
+
+	14.	Each purchase strengthens the economy by encouraging
+A.	investment. 	C.	trade. 
+B.	expansion. 	D.	competition. 
+
+	15.	If total cost is $3,000 with zero quantity produced and $6,500 with 1,000 items produced, what is the marginal cost of producing each item?
+A.	$1.00 	C.	$6.50 
+B.	$3.00 	D.	$3.50 
+
+	16.	Price stability, which means that the price levels stay fairly constant, is an example of a(n)
+A.	business theory. 	C.	industry standard. 
+B.	economic goal. 	D.	monetary law. 
+
+	17.	High levels of inflation often have a negative effect on a business's
+A.	secondary market. 	C.	import quota. 
+B.	credit rating. 	D.	purchasing power. 
+
+	18.	When the economy takes a downturn that lasts for six months, a state of ___________ is said to exist.
+A.	expansion 	C.	depression
+B.	recession	D.	inflation 
+
+	19.	What is human relations?
+A.	The ability of people to get along with each other
+B.	The number of people with whom you interact on a daily basis
+C.	The ways that people form/conduct relationships with one another 
+D.	Activities sponsored by a business to create a positive public image
+
+	20.	Which of the following is an example of a conflict response mode:
+A.	Exclusion 	C.	Mediation 
+B.	Frustration 	D.	Avoidance 
+
+	21.	An accounting department manager giving an employee sincere praise, compliments, and positive feedback is an example of providing
+A.	recognition. 	C.	support. 
+B.	rewards. 	D.	training. 
+
+	22.	An advantage to retailers of offering credit is that credit customers
+A.	often buy impulse items more freely. 	C.	always pay their accounts promptly.
+B.	have little effect on store profits.	D.	spend more time deciding to buy.
+
+	23.	It is important for an accounting firm's owner to set investment goals that are
+A.	conservative. 	C.	vague. 
+B.	measurable. 	D.	accurate. 
+
+	24.	A customer's stealing money from an open cash register is an example of __________ risk.
+A.	economic 	C.	natural 
+B.	human	D.	personal
+
+	25.	The Melody Makers Music Company, a privately owned business, brings in $228,000 in sales during the year. Its cost of goods sold totals $68,000, and it has operating expenses of $25,700 for the same year. If the shop wanted to take out a loan to expand, what group of people would be the most interested in this information?
+A.	Creditors 	C.	Managers 
+B.	Top executives 	D.	Investors
+
+	26.	Why does a business set up budgets that estimate its income and operating expenses?
+A.	To increase the business's production 	C.	To help the business control its spending 
+B.	To increase the business's sales 	D.	To enable the business to offer credit
+
+	27.	Compute a business's net profit using the following information in its financial statements: 
+Cost of goods sold, $450,000; Total operating expenses, $298,000; Total revenue, $847,000.
+A.	$152,000 	C.	$99,000  
+B.	$53,000  	D.	$397,000
+
+	28.	What do businesses need to develop and use in order to prepare financial statements?
+A.	Accounting systems 	C.	Balance sheets 
+B.	Operating budgets 	D.	Depreciation records 
+
+	29.	What do businesses keep to use as evidence of financial transactions?
+A.	Balance sheets 	C.	Source documents 
+B.	Income statements 	D.	Sales budgets 
+
+	30.	Why is it important for businesses to periodically evaluate cash-handling techniques?
+A.	To prevent shortages 	C.	To reconcile deposits 
+B.	To audit payments 	D.	To count change funds 
+
+	31.	Before authorizing payment to vendors, businesses usually
+A.	process checks. 	C.	verify invoices. 
+B.	negotiate terms. 	D.	organize discounts. 
+
+	32.	What do businesses need to monitor to control their accounts payable?
+A.	Availability of cash 	C.	Amount of credit to extend 
+B.	Value of assets 	D.	Type of raw materials 
+
+	33.	When a business values long-term debt, it is assigning __________ to liabilities.
+A.	income 	C.	operating costs 
+B.	dollar amounts 	D.	profit 
+
+	34.	Which of the following are long-term debts that businesses sell to investors to obtain capital:
+A.	Stocks 	C.	Shares 
+B.	Bonds 	D.	Loans 
+
+	35.	When preparing a customer statement, a business includes the term 5/15, n30 which tells the customer that the business is
+A.	offering a discount for prompt payment. 
+B.	giving the customer more than 30 days to pay. 
+C.	charging a 5% penalty for late payment. 
+D.	adding sales tax to the amount of the purchase. 
+
+	36.	In which of the following situations might a business decide that it will be unable to collect certain receivables:
+A.	Customer relocates 	C.	Customer files bankruptcy 
+B.	Business loses original invoice 	D.	Business eliminates debts 
+
+	37.	Businesses maintain employee earnings records that include information about
+A.	net worth and liquid assets. 	C.	types and amounts of deductions. 
+B.	job titles and descriptions. 	D.	personal debt and investments. 
+
+	38.	A business deducting the amount of employees' wages and salaries from cash assets is an example of
+A.	estimating payroll earnings. 	C.	allocating payroll costs. 
+B.	calculating personal expenses. 	D.	determining pay rates. 
+
+	39.	A business that depreciates an asset by an equal amount for each year of the asset's life is using the __________ method of depreciation.
+A.	partial-period 	C.	accelerated-value 
+B.	straight-line 	D.	double-declining 
+
+	40.	A sales policy of offering discounts to customers usually impacts which category of a business's income statement?
+A.	Cost of goods sold 	C.	Operating expenses 
+B.	Gross profit 	D.	Net sales 
+
+	41.	How might a business in Country A that is buying products from a business in Country B arrange to pay for those products in order to prevent an exchange loss?
+A.	With a credit memorandum 	C.	In the currency of Country B 
+B.	By certified check 	D.	In the currency of Country A 
+
+	42.	Which of the following do businesses often consider when evaluating the company's liquidity:
+A.	Credit rating 	C.	Accounts payable 
+B.	Cost of goods sold 	D.	Accounts receivable 
+
+	43.	Which of the following does a business estimate when preparing a sales budget for the year:
+A.	Amount of inventory it will sell 	C.	Dates of planned deliveries 
+B.	Number of repeat customers 	D.	Cost of purchasing inventory 
+
+	44.	Which of the following is an example of an expense that businesses include in a selling expenses budget:
+A.	Insurance 	C.	Advertising 
+B.	Inventory 	D.	Maintenance 
+
+	45.	Calculate the return-on-sales ratio if a business has sales of $900,000 and net profit of $135,000.
+A.	12% 	C.	15% 
+B.	17% 	D.	20% 
+
+	46.	In which of the following situations would a business list a disbursement of funds as a decrease in assets on financial statements:
+A.	Determining future financing needs 	C.	Estimating value of current acquisitions 
+B.	Allocating funds among projects 	D.	Paying cash dividends to investors 
+
+	47.	In a preliminary screening of job applicants, employers should consider the applicants'
+A.	pre-employment test results. 	C.	background and/or job experience.
+B.	personal information. 	D.	list of references. 
+
+	48.	One of the personnel records that businesses are required to maintain for a certain period of time is the __________ record.
+A.	income tax withholding 	C.	flextime work schedule
+B.	job specification 	D.	pre-retirement counseling
+
+	49.	Why is it important to the business for accounting department managers/supervisors to receive training and development?
+A.	They want to be promoted. 	C.	They need to be challenged.
+B.	Their work affects the business's success. 	D.	Their jobs lack interest and variety.
+
+	50.	One of the ways in which managing diversity contributes to the business's success is that the business will be able to
+A.	reduce its productivity levels. 	C.	create a homogeneous workforce.
+B.	attract and to retain talented workers. 	D.	make managers' jobs easier for them.
+
+	51.	Which of the following may result if a grievance with an accounting department employee is poorly handled:
+A.	Employee productivity will probably increase. 	C.	Employee morale will probably decrease.
+B.	Employee hostility will probably decrease.	D.	Employee loyalty will probably increase.
+
+	52.	A marketing-information management system can help businesses to
+A.	discover employee potential. 	C.	motivate accounting department employees.  
+B.	discover new markets.	D.	practice good business ethics. 
+
+	53.	Businesses maintain information about inventory levels, the types of products that customers are buying, and the reasons for any returns in order to
+A.	contact new vendors. 	C.	develop display ideas. 
+B.	make marketing decisions. 	D.	update promotional materials. 
+
+	54.	One of the benefits to a business of tabulating the information contained in a marketing survey is to determine if some
+A.	people did not answer all of the questions.  	C.	people did not provide their names. 
+B.	questions were difficult to understand. 	D.	questions required lengthy answers. 
+
+	55.	Which of the following is a factor that might make it necessary for a business to change its marketing strategy:
+A.	Economy remains stable. 	C.	Competition is limited.
+B.	Consumers are satisfied. 	D.	Technology is advancing.
+
+	56.	Mass marketing is not as precise as __________ marketing.
+A.	promotional 	C.	event
+B.	direct 	D.	segment 
+
+	57.	Company XYZ has developed a new flavor of ice cream called Hunky Chunky and has selected a target market that consists of boys, ages 7-15, who are living at home with their parents in a household that earns between $30,000 and $60,000 a year. This method of target market selection is based on
+A.	psychographics. 	C.	geographics.
+B.	demographics. 	D.	socioeconomics.
+
+	58.	Businesses often conduct a situational analysis during the marketing-planning process to identify possible threats in the marketplace in order to turn those threats into
+A.	opportunities. 	C.	objectives. 
+B.	sales strategies. 	D.	accounting tactics. 
+
+	59.	Which of the following is a factor that new businesses consider when conducting an analysis of competitors in a specific market:
+A.	Product quality and price 	C.	Cost of supplies and equipment
+B.	Size and availability of space 	D.	Industry research and training
+
+	60.	Why do businesses usually prepare short-term sales forecasts?
+A.	Businesses know that market conditions will remain the same for a year.
+B.	Forecasting methods are only appropriate for one year.
+C.	The shorter the forecast, the more accurate the prediction.
+D.	Businesses can obtain the results from longitudinal studies conducted during the year.
+
+	61.	An objective of a business's marketing plan is to increase sales by increasing the amount spent on promotion. If current sales are $2,350,750 and the business spends 7% of that on promotion, how much more will it spend if it increases the promotional budget to 9%?
+A.	$47,015 	C.	$48,975
+B.	$46,350 	D.	$49,230
+
+	62.	An important reason for evaluating the performance of marketing plans is to
+A.	take corrective action. 	C.	analyze market price.
+B.	gather accounting data.  	D.	schedule each task. 
+
+	63.	One important way that accounting information is used in business is to prepare
+A.	pricing systems. 	C.	inventory controls. 
+B.	operating procedures. 	D.	financial reports. 
+
+	64.	When Roger retrieved a client's information and dialed the phone number listed, he discovered the information was incorrect. This is an example of the importance of __________ records.
+A.	quality 	C.	digital 
+B.	archived 	D.	required 
+
+	65.	Judy fell from a display platform and tore the ligaments in her ankle. Her injury is considered a(n)
+A.	sprain. 	C.	hernia.
+B.	open wound. 	D.	strain.  
+
+	66.	A type of security problem that involves deceiving or cheating a business out of money or property is
+A.	fraud. 	C.	robbery.
+B.	burglary. 	D.	pilferage.
+
+	67.	Businesses that provide training to accounting department employees so they will understand their jobs and be able to perform effectively are often able to create a
+A.	growth opportunity. 	C.	friendly atmosphere. 
+B.	secure environment. 	D.	quality culture. 
+
+	68.	What might stockholders do if a corporation was unable to pay dividends because of excessive expenses?
+A.	Invest elsewhere. 	C.	Reduce earnings. 
+B.	Organize a takeover. 	D.	Buy additional shares.
+
+	69.	Determine whether the following statement is true or false: A budget may be used as a tool for controlling expenses.
+A.	False, budgets are of no use in controlling expenses.
+B.	False, budgets only project expenses.
+C.	True, budgets project exact income.
+D.	True, budgets provide standards for spending in various categories.
+
+	70.	Which of the following is an example of a maintenance function:
+A.	Straightening merchandise 	C.	Restocking merchandise
+B.	Repairing fixtures and equipment	D.	Assembling displays 
+
+	71.	Following an accounting department employee for a few days to obtain information about that particular career is an example of
+A.	job shadowing. 	C.	serving an internship. 
+B.	volunteering. 	D.	personal interviewing. 
+
+	72.	Licenses, certificates, awards, and honors should be included in the __________ section of a résumé.
+A.	experience 	C.	education 
+B.	career goals 	D.	personal data
+
+	73.	Carrie is frequently upset because she tries to get her job done, spend time with her family, and have some time for herself. Which of the following benefits of time management will be most meaningful to Carrie:
+A.	Enhanced self-esteem 	C.	Increased organization
+B.	Increased productivity 	D.	Reduced stress and frustration
+
+	74.	Which of the following statements about pricing is true:
+A.	Once prices are set, businesses should not adjust them.
+B.	The selling price can never be set too low.
+C.	The cost of the product determines its selling price.
+D.	The price must satisfy both buyers and sellers. 
+
+	75.	Technology allows manufacturers to pre-print product packaging with Universal Product Codes (UPCs) which contain __________ information.
+A.	operating 	C.	pricing 
+B.	tracking 	D.	selling 
+
+	76.	If the total costs of a product decrease, a business's prices may __________ to increase sales volume.
+A.	be raised 	C.	jump sharply
+B.	be lowered 	D.	remain the same
+
+	77.	What is the break-even point in units for a business whose total fixed costs are $325,500, selling price per unit is $18, and variable cost per unit is $15.50?
+A.	120,250 	C.	150,500
+B.	130,200 	D.	180,550
+
+	78.	The stages of the product life cycle influence which __________ marketers will use.
+A.	marketing-information management system 	C.	government regulations 
+B.	product characteristics 	D.	marketing strategies
+
+	79.	When a business reduces its use of natural resources to create new products, the business is exhibiting a(n) _________ attitude.
+A.	authentic 	C.	ethical 
+B.	logical 	D.	conservative 
+
+	80.	Which of the following is an example of internal resources that businesses often use to generate product ideas:
+A.	Competitors 	C.	Customers 
+B.	Employees 	D.	Agencies 
+
+	81.	One way that a business is often able to recognize product opportunities in the marketplace is by monitoring 
+A.	trends. 	C.	finances. 
+B.	personnel. 	D.	plans. 
+
+	82.	Which of the following benefits of warranties and guarantees do not apply to consumers:
+A.	Reduced anxiety 	C.	Free repairs 
+B.	Legal recourse 	D.	Increased profits
+
+	83.	Which of the following is an example of a company's using brand extension:
+A.	Coca-Cola adding Caffeine-Free Diet Coke
+B.	Winn-Dixie installing an ATM machine in its stores
+C.	Tyson packaging smaller portions of chicken for the elderly
+D.	Kroger adding Blue Bell ice cream to its frozen foods section
+
+	84.	Fisher Industries wanted to protect its new CD player for automobiles by listing it with the appropriate government agency. What kind of protection is this?
+A.	Descriptive name 	C.	Brand licensing
+B.	Brand positioning 	D.	Registered trademark 
+
+	85.	How is a business positioning its product when it places emphasis on the item's safety?
+A.	Class 	C.	Attributes 
+B.	Price 	D.	Competition 
+
+	86.	To determine if an existing brand is conveying the desired image, a business needs to
+A.	evaluate its effectiveness. 	C.	select a catchy name. 
+B.	describe its personality. 	D.	develop a brand promise. 
+
+	87.	If investment costs are high but the turnover rate is low, a business might decide to
+A.	eliminate personnel. 	C.	add shelf space. 
+B.	increase inventory. 	D.	drop a product. 
+
+	88.	What is one way that promotion benefits the economy?
+A.	Creates images 	C.	Provides jobs
+B.	Offers information 	D.	Builds confidence
+
+	89.	All of the following would be institutional advertisements except an ad
+A.	announcing a back-to-school sale. 	C.	featuring conservation efforts.
+B.	speaking out against drugs.	D.	encouraging citizens to vote. 
+
+	90.	When a business develops an advertisement that presents a woman in a traditional female role, it is reinforcing the concept of
+A.	stereotypes. 	C.	age discrimination. 
+B.	equity labels. 	D.	socialization. 
+
+	91.	Which of the following examples is a promotional activity that a government regulates in order to maintain a fair environment among competitors in the marketplace:
+A.	Telemarketing sales 	C.	Direct mail
+B.	Bait-and-switch contests	D.	Comparison advertising
+
+	92.	Which of the following elements of a print advertisement often is noticed first:
+A.	Testimonial 	C.	Subheadline
+B.	Identification 	D.	Illustration
+
+	93.	An effective technique for coordinating promotional activities is to create displays that __________ advertisements.
+A.	contrast with 	C.	compete with
+B.	carry out the theme of 	D.	take the place of
+
+	94.	A business employee who helps a customer decide what type of product to order is involved in the process of
+A.	planning. 	C.	coaching. 
+B.	directing. 	D.	selling.
+
+	95.	The financial success of a business often depends on its ability to
+A.	build a clientele. 	C.	plan advertising. 
+B.	offer free delivery service.	D.	sell a few product lines.
+
+	96.	What type of computer software do businesses often use to analyze numerical sales information?
+A.	Presentation 	C.	Spreadsheet 
+B.	Word processing 	D.	Graphic and design
+
+	97.	A salesperson who stays up to date on the information provided in company promotional materials usually is able to effectively handle customers'
+A.	suggestions. 	C.	compliments.
+B.	assumptions. 	D.	objections. 
+
+	98.	When a salesperson explains to a customer that a product is safe for all age groups to use, the salesperson is pointing out a(n) __________ benefit.
+A.	hidden 	C.	costly
+B.	exclusive 	D.	obvious 
+
+	99.	Which of the following do accounting department managers often set in order to control the work effort:
+A.	Expense budgets 	C.	Job standards 
+B.	Hiring objectives 	D.	Diversity quotas
+
+	100.	Which of the following is characteristic of a proactive business:
+A.	Watching for any changes in the external environment
+B.	Reacting to changes made by competitors
+C.	Using a creative promotional mix
+D.	Taking action to create marketing opportunities
+
+
+	1.	A
+Credit transactions. The Uniform Commercial Code (UCC) is a large set of business laws that clarified and modernized many laws relating to commercial transactions. These model laws, which have been adopted by most states, govern the way that companies do business with each other and with consumers. One transaction regulated by the UCC is credit and includes the credit terms that businesses offer to customers as well as installment sales contracts. The Uniform Commercial Code makes it easier for companies to do business in other states because the laws governing commercial transactions are the same. The UCC does not regulate business competition, economic policies, or product development.
+SOURCE:	BL:004
+SOURCE:	Everard, K.E., & Burrow, J.L. (2001). Business principles and management (11th ed.) 
+[p. 489]. Cincinnati: South-Western.
+
+	 2.	D
+Wholesaler. Wholesalers buy goods from producers or agents and sell them to retailers. Top-Notch is a wholesaler. Agents are intermediaries that assist in the sale and promotion of goods and services but do not take title to them. Retailers are businesses that buy consumer goods or services and sell them to the ultimate consumer. Producers are the growers, manufacturers, or providers of goods or services.
+SOURCE:	CM:003
+SOURCE:	MB LAP 3—Channels of Distribution
+
+	 3.	B
+Implementing an automatic identification system. An automatic identification system uses electronic bar coding symbols to transmit information. Businesses often use bar coding as a way to keep track of their inventory and reorder stock. Bar coding eliminates the need to process inventory manually, which takes much more time and is subject to a higher rate of error. Although tracking shipping expenses through a database system and developing web sites require technology to operate, products do not necessarily move through the distribution chain more efficiently. Use of networked trading communities can potentially increase the efficiency of product movement. However, merely encouraging use of networked systems does not increase product movement efficiency.
+SOURCE:	CM:004
+SOURCE:	Coyle, J.J., Bardi, E.J., & Langley, C.J. (2003). The management of business logistics: A supply chain perspective  (7th ed.) [pp. 463-464]. Mason, OH: South-Western.
+
+	 4.	A
+Ethical business practices. Studies have shown a strong relationship between customer satisfaction and a company's ethical behavior. Building customer loyalty gives a business a competitive advantage and is profitable. Taking care of employees tends to encourage employees to take care of business. Paying higher wages is not the only requirement for employee commitment. Pricing strategies can ensure profit but have little impact on employee commitment and customer loyalty. Customer satisfaction, employee contentment, and profit are not directly linked to automated distribution centers.
+SOURCE:	CM:006
+SOURCE:	Ferrell, O.C., Fraedrich, J., & Ferrell, L. (2002). Business ethics: Ethical decision making and cases (5th ed.) [pp. 246-251]. Boston: Houghton Mifflin.
+
+	 5.	A
+Type of product. A business considers several factors when selecting a channel of distribution. One important factor involves the type of product because different channels of distribution are more effective for certain types of products. For example, a direct channel of distribution might work better for perishable products, while an indirect channel would be satisfactory for durable items that have a long shelf life. Businesses do not consider the return process, the size of the sales force, or the credit policy when selecting a channel of distribution.
+SOURCE:	CM:010
+SOURCE:	Farese, L.S., Kimbrell, G., & Woloszyk, C.A. (2006). Marketing essentials (pp. 449-453). 
+New York: Glencoe/McGraw-Hill.
+
+	 6.	B
+Basic information. Businesses often write letters of inquiry to other businesses to request information and literature, or to order goods or services. These types of letters are routine and should contain only the information the receiver needs in order to respond. It is not necessary to provide complex instructions or technical explanations when writing routine letters. Letters of inquiry usually do not contain confidential data because they are making requests rather than providing information.
+SOURCE:	CO:040
+SOURCE:	Lesikar, R.V., Pettit, J.D., Jr., & Flatley, M.E. (1999). Lesikar's basic business communication (8th ed.) [pp. 78-80]. Boston: Irwin/McGraw-Hill.
+
+	 7.	D
+Short. A characteristic of a simple written report is that it usually is short and to the point. The purpose of writing simple reports is to present basic information in an abbreviated form so that the recipients can read it quickly and use the information in their decision making. Simple written reports are informal rather than formal. They should address the issue in simple terms rather than present abstract information. Simple written reports provide the basic points rather than detailed information.  
+SOURCE:	CO:094
+SOURCE:	Locker, K.O. (2000). Business and administrative communication (5th ed.) [pp. 366-367]. Boston: Irwin/McGraw-Hill.
+
+	 8.	B
+Annual report. An annual report is a type of complex written report that contains a wide range of information about the status of a business. Many large businesses prepare annual reports in order to inform stockholders about profits and losses, product developments, and goals for the future. Annual reports usually are lengthy, contain complex information, and are organized into sections. A service report is a short report prepared by a worker to explain what services were rendered to a customer. A credit report provides credit information about a business or an individual. A news report is a short article about a factual event.
+SOURCE:	CO:009
+SOURCE:	Hyden, J.S., Jordan, A.K., Steinauer, M.H., & Jones, M.J. (1999). Communicating for success  (2nd ed.) [pp. 519-521]. Cincinnati: South-Western Educational.
+
+	 9.	D
+Stick to a planned agenda. Having an agenda of items to be discussed, being prepared to discuss the agenda items, and keeping the group on target with the agenda are essential to effective staff meetings. The individual conducting the meeting should plan the agenda. Asking attendees to prepare their own agendas would create chaos. Robert's Rules of Order are parliamentary procedures to follow in a meeting that involves voting on issues. Minutes are reports of what happened in a meeting, and they are distributed after the meeting takes place.
+SOURCE:	CO:140
+SOURCE:	Hilgert, R.R., & Leonard, E.C. (2001). Supervision: Concepts and practices of management (8th ed.) [pp. 313-314]. Cincinnati: South-Western College Publishing.
+
+	10.	C
+The nature of the business. A business's policies must be appropriate for the type of business. For example, a policy that might be appropriate for an investment business might be inappropriate for a hardware store. Not all business policies are written, and it would not be necessary to display them. The personal preferences of management should not be a consideration. Not all employees in a business need to have accounting skills. 
+SOURCE:	CR:007
+SOURCE:	HR LAP 25—Interpreting Business Policies
+
+	11.	B
+Shopping. Shopping goods are consumer goods that are purchased by consumers after comparing goods and stores in order to get the best quality, price, and/or service. Consumers tend to pay more for shopping goods than for convenience goods, and they usually want the advice of a salesperson. Convenience goods, such as milk and bread, generally are purchased quickly and without much thought or effort. Industrial goods are items purchased by producers for resale, to make other goods, and/or to use in business operations. Specialty goods have unique characteristics that consumers are willing to pay higher prices to buy them.
+SOURCE:	EC:002
+SOURCE:	EC LAP 10—Goods and Services
+
+	12.	B
+Businesses and individuals. They decide what and how products will be produced. The government has regulatory powers to make sure that products are safe. Political parties support candidates for public office. Entrepreneurs are individuals who assume the risk of starting and operating a business.
+SOURCE:	EC:007
+SOURCE:	EC LAP 17—Economic Systems
+
+	13.	B
+Increasing taxes. A contractionary fiscal policy is intended to control or decrease growth in an economy that is expanding too fast. One way that a government might decrease growth is by increasing taxes. When businesses and individuals pay more taxes, they have less money to spend on other goods and services. Therefore, demand for products decreases, production decreases because of less demand, and the economy slows down.
+SOURCE:	EC:074
+SOURCE:	O'Sullivan, A., & Sheffrin, S.M. (2003). Economics: Principles in action (pp. 390-391). Upper Saddle River, NJ: Prentice Hall.
+
+	14.	C
+Trade. Each purchase strengthens the economy by encouraging trade. Purchases do not necessarily encourage expansion, investment, or competition. Expansion is an action an individual firm might take to increase sales—or purchases. Either individuals or firms may invest at any time, whether or not customers buy products. In the struggle to lead a market, competition can encourage customers to buy products.
+SOURCE:	EC:010
+SOURCE:	EC LAP 2—Risk Rewarded
+
+	15.	D
+$3.50. Marginal cost is the change in cost involved in increasing or decreasing production. It is often used to calculate the extra cost of producing one more item. In this situation, total cost of operating the business is $3,000 before any items are produced. Once production begins, there are additional costs. To determine the marginal cost of producing each additional item, first calculate the change in total cost by subtracting the total cost before production from the total cost once production begins ($6,500 - $3,000 = $3,500). The change in total cost is $3,500 from zero production to producing 1,000 items. To calculate marginal cost, divide the change in total cost by the number of items produced ($3,500 ÷ 1,000 = $3.50).
+SOURCE:	EC:023
+SOURCE:	Gottheil, F.M. (2002). Principles of economics (3rd ed.) [pp. 182-184]. Cincinnati: South-Western.
+
+	16.	B
+Economic goal. Governments develop economic policies in order to achieve certain economic goals. An example of an economic goal is price stability. When prices are stable, there are no major changes in price levels. As a result, prices remain fairly constant, or stable. This is also an indication that the economy is stable and the government's economic policies are effective. Price stability is not an example of a business theory, an industry standard, or a monetary law.
+SOURCE:	EC:080
+SOURCE:	McConnell, C.R., & Brue, S.L. (2005). Economics: Principles, problems, and policies 
+(16th ed.) [pp. 8-9]. Boston: McGraw-Hill/Irwin.
+
+	17.	D
+Purchasing power. Inflation, which is a rise in prices, often has a negative effect on a business's purchasing power because now it takes more money to buy the same item. As a result, the business is able to buy less with the same amount of money. For example, as the inflation rate increases, $1 might only be able to buy $ .90 or $ .80 worth of goods. The business spends more money to buy the same items. High levels of inflation do not have a negative effect on a business's credit rating, import quota, or secondary market. 
+SOURCE:	EC:083
+SOURCE:	O'Sullivan, A., & Sheffrin, S.M. (2003). Economics: Principles in action (p. 342). Upper Saddle River, NJ: Prentice Hall.
+
+	18.	B
+Recession. A recession is defined as a six-month contraction in economic activity. A depression is a severe, long-lasting recession characterized by high rates of unemployment and business failures. Expansion is the stage of the business cycle characterized by increased spending and borrowing, increased demand for goods and services, increased employment rates, and decreased interest rates on loans. Inflation is a rapid rise in prices, usually occurring when demand exceeds supply.
+SOURCE:	EC:018
+SOURCE:	EC LAP 9—Business Cycles
+
+	19.	C
+The ways that people form/conduct relationships with one another. Relationships between people are often very complex and can be either effective or ineffective. Effective human relations are characterized by the ability of people to get along with one another. Public relations are activities sponsored by a business to create and/or foster a positive image. The number of people with whom you come in contact on a daily basis has nothing to do with how you get along with those people.
+SOURCE:	EI:037
+SOURCE:	EI LAP 5—Can You Relate?
+
+	20.	D
+Avoidance. The ways that people react to conflict are called conflict response modes. One of these modes is avoidance, which is the effort to avoid conflict. This type of behavior might include ignoring the situation or pretending that it doesn't exist. Avoidance behavior will not resolve conflict. Frustration is a negative effect of conflict rather than a response mode. Mediation is a method of resolving conflict. Exclusion is feeling left out or excluded from an activity.
+SOURCE:	EI:015
+SOURCE:	EI LAP 7—Stop the Madness (Conflict Resolution in Business)
+
+	21.	A
+Recognition. Recognition is special notice or attention. Giving an employee sincere praise, compliments, and positive feedback is an example of providing recognition. This type of recognition is often informal because it is unexpected. However, informal recognition is often more appreciated because it is spontaneous such as a positive comment from a supervisor. A reward is a tangible item given for someone's service or accomplishment. Giving an employee sincere praise, compliments, and positive feedback is not an example of providing support or training. However, feedback might be supportive or involve some type of training.
+SOURCE:	EI:014
+SOURCE:	QS LAP 13—Gimme Five!
+
+	22.	A
+Often buy impulse items more freely. Credit encourages customers to buy more freely. Credit customers like being able to buy without worrying about whether they have the cash on hand to pay for their purchases. As a result, they may buy impulse items that catch their attention. Store profit is affected by credit customers, who often spend less time making buying decisions than other customers. Credit accounts are not always paid on time, and, for the retailer, collecting past-due accounts is a disadvantage of the credit system.
+SOURCE:	FI:002
+SOURCE:	FI LAP 2—Credit and Its Importance
+
+	23.	B
+Measurable. A goal is a desired outcome. Investment goals are desired financial outcomes. Because financial goals deal with money, and money is needed to run the business, it is important that the accounting firm's owner have the means to monitor the progress of his/her investment goals in a tangible, measurable way. Investment goals do not need to be conservative. An accounting firm's owner can set general goals, but specific goals are needed to accomplish the general goal. Investment at any level is risky, so the exact outcome is often unknown. Therefore, investment goals are obtainable rather than accurate.  
+SOURCE:	FI:079
+SOURCE:	Allen, K.A., & Meyer, E.C. (2006). Entrepreneurship and small business management 
+(p. 229). Woodland Hills, CA: Glencoe/McGraw-Hill.
+
+	24.	B
+Human. The chances of loss that result from human weakness and unpredictability are known as human risks. One of the greatest human risks faced by businesses is theft, which includes theft by customers, vendors, and employees. Economic risks are caused by changes in the market that force a lowering of prices, a change of product, or even failure of businesses. Natural risks result from natural causes such as fire, weather conditions, and perishability. Personal is not a classification of risk.
+SOURCE:	FI:084
+SOURCE:	BA LAP 2—Risk Management
+
+	25.	A
+Creditors. Creditors utilize the information generated from a profit-and-loss statement to review the financial status of a business. Creditors are responsible for deciding if a business is granted a loan, or a cash advance, and want to make sure a business has the cash flow to repay a loan. Top executives and managers use the information in making decisions about operations and how to run the company efficiently. Investors would not be of concern in this situation since the company is privately owned.
+SOURCE:	FI:094
+SOURCE:	FI LAP 4—Watch Your Bottom Line (Income Statements)
+
+	26.	C
+To help the business control its spending. A budget shows how much income a business expects to receive and how much its expenses are estimated to be for a particular time period. This helps the business to keep from spending more than its income. Controlling its cash flow helps a business to be successful, which may enable it to offer credit to customers; but that is not the purpose of a budget. Budgets do not increase sales or production, but they reflect the results of such increases.
+SOURCE:	FI:098
+SOURCE:	Kuratko, D.F., & Hodgetts, R.M. (2001). Entrepreneurship: A contemporary approach 
+(5th ed.) [pp. 257-261]. Mason, OH: South-Western.
+
+	27.	C
+$99,000. Net profit is the difference between total revenue and all costs and expenses of a business. Net profit is calculated by subtracting the cost of goods sold and operating expenses from total revenue ($847,000 - $450,000 - $298,000 = $99,000).
+SOURCE:	FI:102
+SOURCE:	Everard, K.E., & Burrow, J.L. (2001). Business principles and management (11th ed.) 
+[p. 601]. Cincinnati: South-Western.
+
+	28.	A
+Accounting systems. Accounting systems are methods and procedures used in handling the business's financial information. Businesses need accounting systems to track financial activities and collect financial data that are needed to prepare financial statements. All businesses prepare some type of financial statements such as profit-and-loss statements, and tax returns. Accounting systems capture the information needed to prepare these records. Operating budgets, balance sheets, and depreciation records are examples of financial statements that many businesses prepare.
+SOURCE:	FI:107
+SOURCE:	Everard, K.E., & Burrow, J.L. (2001). Business principles and management (11th ed.) 
+[pp. 383-384]. Cincinnati: South-Western.
+
+	29.	C
+Source documents. Businesses keep a variety of source documents to use as evidence of financial transactions. Source documents are a type of business record. An example of a source document is a check that a business writes to pay a supplier. The canceled check is evidence that a financial transaction was completed between the business and a supplier. An income statement is a summary of a business's income and expenses over a period of time. A balance sheet is a financial statement that captures the financial condition of the business at that particular moment. A sales budget is an estimate of expenses and income that can be expected from the sale of a business's goods and services.
+SOURCE:	FI:111
+SOURCE:	Cunningham, B.M., Nikolai, L.A., & Bazley, J.D. (2000). Accounting: Information for business decisions (p. 121). Orlando, FL: Harcourt.
+
+	30.	A
+To prevent shortages. Evaluating cash-handling techniques is important because ineffective methods often lead to losses for the business. For example, a business might decide to stop paying cash for small purchases as a result of evaluating that procedure and discovering that many times those payments were not recorded. The business spent money and has no record of the expense which results in a shortage of cash. Auditing payments, reconciling deposits, and counting change funds are cash-handling techniques that businesses might evaluate.
+SOURCE:	FI:114
+SOURCE:	Everard, K.E., & Burrow, J.L. (2001). Business principles and management (11th ed.) 
+[pp. 387-388]. Cincinnati: South-Western.
+
+	31.	C
+Verify invoices. Before businesses authorize payment to vendors, they verify the information on the invoices to make sure they are paying the correct amount for the number of items ordered. Once businesses are satisfied that the invoices are correct, they authorize payment. Businesses negotiate terms during the purchasing process and these terms should appear on the invoice. The terms might include discounts which will be clearly stated on the invoice. Once payment is authorized, the business will process a check.
+SOURCE:	FI:116
+SOURCE:	Pinson, L., & Jinnett, J. (1998). Keeping the books: Basic recordkeeping and accounting for the small business (4th ed.) [pp. 42-43]. Chicago: Upstart.
+
+	32.	A
+Availability of cash. Accounts payable are all the monies a business owes to others. In order to pay these accounts, businesses need cash. As a result, businesses usually try to control their accounts payable to correspond to the availability of cash. If a business knows money will be coming in, it can plan to make purchases because it will be able to pay its bills when they are due. Businesses do not control their accounts payable by monitoring the value of assets, the amount of credit to extend, or the type of raw materials.
+SOURCE:	FI:120
+SOURCE:	Everard, K.E., & Burrow, J.L. (2001). Business principles and management (11th ed.) 
+[pp. 412-413]. Cincinnati: South-Western.
+
+	33.	B
+Dollar amounts. Long-term debts are those debts, or liabilities, that will be paid off over a period of years. These debts or liabilities have value that must be recorded on a business's financial statements. When a business values long-term debt, it is assigning dollar amounts to liabilities. For example, a six-year loan in the amount of $60,000 might be valued at $50,000 in the second year if the business had paid off $10,000 of the debt. When a business values long-term debt, it is not assigning income, operating costs, or profit to liabilities.
+SOURCE:	FI:123
+SOURCE:	Cunningham, B.M., Nikolai, L.A., & Bazley, J.D. (2000). Accounting: Information for business decisions (pp. 794-797). Orlando, FL: Harcourt.
+
+	34.	B
+Bonds. Businesses sometimes issue bonds to obtain long-term capital or funds. Bonds are a type of long-term debt that a business repays at a specified time with interest. The benefit of selling bonds to investors is that the businesses have access to the funds for a long time before they must repay the investors. Stocks are shares, or units, of ownership in a corporation. A loan is a sum of money lent to a business for a specific time period that is repayable with interest.  
+SOURCE:	FI:124
+SOURCE:	Everard, K.E., & Burrow, J.L. (2001). Business principles and management (11th ed.) 
+[pp. 439-441]. Cincinnati: South-Western.
+
+	35.	A
+Offering a discount for prompt payment. If a business is offering a sales discount, it clearly states the terms of the discount on the customer's statement such as 5/15, n30. This tells the customer that 5% can be deducted from the amount due if the customer pays within 15 days. When businesses prepare customer statements, they often indicate if sales discounts are available. Sales discounts encourage customers to pay quickly to reduce the amount of the invoice. The term 5/15, n30 tells the customer that payment is due in full within 30 days. The term 5/15, n30 does not tell the customer that the business is charging a 5% penalty for late payment or adding sales tax to the amount of the purchase. 
+SOURCE:	FI:128
+SOURCE:	Cunningham, B.M., Nikolai, L.A., & Bazley, J.D. (2000). Accounting: Information for business decisions (p. 442). Orlando, FL: Harcourt.
+
+	36.	C
+Customer files bankruptcy. In some situations, businesses will be unable to collect receivables. Businesses routinely evaluate customers and their payment histories to identify situations that might affect collecting receivables. For example, if a customer files bankruptcy, a business might decide that it will be unable to collect all or part of the amount it is owed by the customer. Customers often relocate and notify businesses of their new addresses. Businesses maintain a variety of sales documents so losing the original invoice does not mean that a business will be unable to collect receivables. If a receivable becomes uncollectible, a business usually eliminates the debt.
+SOURCE:	FI:132
+SOURCE:	Cunningham, B.M., Nikolai, L.A., & Bazley, J.D. (2000). Accounting: Information for business decisions (p. 427). Orlando, FL: Harcourt.
+
+	37.	C
+Types and amounts of deductions. Businesses maintain payroll records for each employee that contain information about hours worked, wages, payroll date, type and amount of deductions, etc. Businesses maintain employee earnings records to be able to accurately compensate employees for their time and effort. Part of this process involves accurately calculating deductions for income taxes, retirement plans, health plans, etc. Employee earnings records do not include information about job titles and descriptions, net worth and liquid assets, or personal debt and investments.
+SOURCE:	FI:134
+SOURCE:	Everard, K.E., & Burrow, J.L. (2001). Business principles and management (11th ed.) 
+[p. 391]. Cincinnati: South-Western.
+
+	38.	C
+Allocating payroll costs. Businesses need to have cash to cover payroll costs. When businesses pay employees, they deduct the amount of the payroll from cash assets. By doing this, businesses are able to keep track of the amount of cash they have on hand to pay expenses. Employees' wages and salaries are business expenses rather than personal expenses. Businesses do not estimate payroll earnings because employees are paid the correct amount for the hours they work. Businesses determine pay rates for each type of job before hiring employees to fill those positions.
+SOURCE:	FI:139
+SOURCE:	Cunningham, B.M., Nikolai, L.A., & Bazley, J.D. (2000). Accounting: Information for business decisions (pp. 137-141). Orlando, FL: Harcourt.
+
+	39.	B
+Straight-line. The simplest and easiest method of depreciating an asset is the straight-line depreciation method. This method is based on depreciating an asset by an equal amount for each year of the asset's life. After that time, the asset has no value. For example, a business that depreciates a $100,000 asset by $20,000 each year for five years is using the straight-line method of depreciation. The partial-asset, accelerated-value, or double-declining methods do not depreciate an asset by an equal amount for each year of the asset's life. 
+SOURCE:	FI:143
+SOURCE:	Cunningham, B.M., Nikolai, L.A., & Bazley, J.D. (2000). Accounting: Information for business decisions (pp. 744-747). Orlando, FL: Harcourt.
+
+	40.	D
+Net sales. Net sales are total sales minus discounts, sales returns, and allowances. Offering discounts is a sales policy that impacts the net sales category of a business's income statement because businesses include only the amounts that customers actually pay for products. If a product sells for $50 and the business offers a 10% discount, the product actually sells for $45. Therefore, the discount impacts the net sales figure which is now $45 instead of $50. Gross profit is the money left after cost of goods expense is subtracted from total income. Operating expenses are all of the expenses involved in running a business. Cost of goods sold is the amount of money a business pays for the product it will sell.
+SOURCE:	FI:147
+SOURCE:	Cunningham, B.M., Nikolai, L.A., & Bazley, J.D. (2000). Accounting: Information for business decisions (pp. 170-171). Orlando, FL: Harcourt.
+
+	41.	D
+In the currency of Country A. When a business in one country buys products from a business in another country, the two businesses must agree on the currency that will be used to pay for the products. Businesses often want to pay for purchases in the currency of their country, such as in U.S. dollars, to avoid a problem if the exchange rate changes. For example, if the exchange rate changes and the currency of Country B is worth more than the currency of Country A, the business in Country A will pay more for the products if it has agreed to pay in the currency of Country B. This results in a loss for the business in Country A. Paying by certified check will not prevent an exchange loss unless the check is in the currency of Country A. A business can use a credit memorandum only if it has a credit with another company.
+SOURCE:	FI:151
+SOURCE:	Cunningham, B.M., Nikolai, L.A., & Bazley, J.D. (2000). Accounting: Information for business decisions (pp. 433-435). Orlando, FL: Harcourt.
+
+	42.	D
+Accounts receivable. Liquidity refers to a business's ability to turn assets into cash. Accounts receivable, all the monies owed to a business by its customers, are assets that a business might be able to sell to generate cash. Selling accounts receivable to a third party is one way to turn assets into cash. Cost of goods sold is the amount of money a business pays for the product it will sell. Accounts payable are all monies owed by the business to others. Credit rating has an impact on a business's ability to obtain loans.
+SOURCE:	FI:153
+SOURCE:	Cunningham, B.M., Nikolai, L.A., & Bazley, J.D. (2000). Accounting: Information for business decisions (pp. 480-485). Orlando, FL: Harcourt.
+
+	43.	A
+Amount of inventory it will sell. Businesses prepare a sales budget because this budget is the basis for the other budgets. The sales budget is an estimate of sales and revenue over a period of time, often one year. When preparing a sales budget, a business estimates the amount of inventory it will sell over that period of time. By estimating the inventory it will sell, a business can put an estimated dollar figure on estimated revenue. Once a business completes the sales budget, it can prepare the purchases budget to plan for the amount of money it will need to buy the inventory that it expects to sell. Businesses do not estimate the number of repeat customers or the dates of planned deliveries when preparing a sales budget. 
+SOURCE:	FI:157
+SOURCE:	Cunningham, B.M., Nikolai, L.A., & Bazley, J.D. (2000). Accounting: Information for business decisions (pp. 91-94). Orlando, FL: Harcourt.
+
+	44.	C
+Advertising. Businesses prepare selling expenses budgets to account for all the expenses associated with selling. Advertising is often a selling expense because businesses advertise to attract customers and encourage them to buy. Therefore, the costs associated with advertising to promote sales are included in a selling expenses budget. The expense of buying inventory is usually listed in the purchases budget. Insurance and maintenance expenses are usually listed in the general and administrative expenses budget.
+SOURCE:	FI:159
+SOURCE:	Cunningham, B.M., Nikolai, L.A., & Bazley, J.D. (2000). Accounting: Information for business decisions (pp. 97-98). Orlando, FL: Harcourt.
+
+	45.	C
+15%. Businesses use financial ratios to evaluate the company's performance. One important ratio is the return on sales ratio, which indicates a business's profitability. To calculate the return on sales ratio, divide net profit by sales ($135,000 ÷ $900,000 = 0.15 or 15%). In this example, the business is earning a 15% profit. By comparing this figure to industry averages, a business can determine if it is earning an acceptable amount of profit.
+SOURCE:	FI:163
+SOURCE:	Everard, K.E., & Burrow, J.L. (2001). Business principles and management (11th ed.) 
+[pp. 418-419]. Cincinnati: South-Western.
+
+	46.	D
+Paying cash dividends to investors. Businesses that sell stock usually pay cash dividends to investors. This distribution of cash must be accounted for in the business's financial statements. Since cash is an asset and businesses pay dividends out of cash, they record the payment of dividends as a decrease in assets. The overall assets of the business might increase if the business earns enough profit to pay dividends; however, the payment of dividends decreases those assets. Businesses do not list a disbursement of funds as a decrease in assets when allocating funds among projects, estimating value of current acquisitions, or determining future financing needs. 
+SOURCE:	FI:166
+SOURCE:	Cunningham, B.M., Nikolai, L.A., & Bazley, J.D. (2000). Accounting: Information for business decisions (pp. 900-901). Orlando, FL: Harcourt.
+
+	47.	C
+Background and/or job experience. Employers are trying to choose the most suitable applicants during the screening process. This involves determining whether the applicant has the necessary skills, education, and/or experience to do the job. The references, personal data, and test results would only be considered in the case of applicants who have passed the screening process.
+SOURCE:	HR:356
+SOURCE:	MN LAP 51—Selecting New Employees
+
+	48.	A
+Income tax withholding. Businesses are required by law to maintain specific personnel records for a certain period of time. Records of income tax withholding must be retained for four years. Some record-retention laws, such as those regarding income tax records, are established by the federal government, but others vary from state to state. Businesses may keep records about job specifications, flextime work schedules, and pre-retirement counseling, but these records are not required by law.
+SOURCE:	HR:359
+SOURCE:	Smartbiz. (n.d.). How long to keep employee records.  Retrieved August 22, 2007, from http://www.smartbiz.com/sbs/arts/swp20.htm
+
+	49.	B
+Their work affects the business's success. The training and development that accounting department managers/supervisors receive should help them to acquire the knowledge, skills, and attitudes needed to manage the performance of other accounting department employees in achieving the organization's goals. Because of the impact that managers and supervisors have on other workers, their performance is vital to the business's success. Not all managers or supervisors need to be challenged or want to be promoted. Most managerial/supervisory jobs are both interesting and varied.
+SOURCE:	HR:363
+SOURCE:	MN LAP 50—Manager/Supervisor Training
+
+	50.	B
+Attract and to retain talented workers. A business with a reputation for treating its employees fairly is much more likely to get and to keep good workers. This benefit of managing diversity will be especially important if predictions for the continued shrinking of the labor pool of educated/skilled workers are accurate. Businesses that manage diversity well have a diverse workforce rather than a homogeneous workforce. Managing a diverse workforce is more difficult and takes more of managers' time than managing a homogeneous workforce. A business would not want to reduce its levels of productivity.
+SOURCE:	HR:367
+SOURCE:	MN LAP 55—Managing Diversity in the Workplace
+
+	51.	C
+Employee morale will probably decrease. In general, a disciplinary situation should be approached in a nonjudgmental manner, with all facts gathered completely, precisely, and accurately. Poor handling of a grievance will not solve it and may lead to reduced levels of morale and respect among employees. Employee hostility will probably increase. Employee productivity will probably decrease. Employee loyalty will probably decrease.
+SOURCE:	HR:369
+SOURCE:	MN LAP 53—Remedial Action
+
+	52.	B
+Discover new markets. A marketing-information management system is designed to provide accurate and timely information that may help to expand or discover new markets when analyzed. Employee motivation, employee potential, and business ethics are concerns of management rather than marketing.
+SOURCE:	IM:001
+SOURCE:	IM LAP 2—Marketing-Information Management
+
+	53.	B
+Make marketing decisions. Businesses maintain information about inventory, such as which items sold well and at what price level and which items were slow moving and had to be reduced in price in order to sell. They also maintain information about the reasons for any returns or customer complaints. Businesses monitor this information in order to make marketing decisions such as whether to carry a larger quantity of a certain item or to discontinue some items. Businesses do not maintain information about inventory levels, the types of products that customers are buying, and the reasons for any returns in order to contact new vendors, develop display ideas, or update promotional materials. 
+SOURCE:	IM:184
+SOURCE:	Farese, L.S., Kimbrell, G., & Woloszyk, C.A. (2002). Marketing essentials (3rd ed.) [p. 508]. Woodland Hills, CA: Glencoe/McGraw-Hill.
+
+	54.	A
+People did not answer all of the questions. In many cases, processing marketing information involves tabulating the results of a survey. Tabulating is counting the number of respondents who answered each question with one of the possible answers. For example, if 100 people responded to a survey, businesses need to know how many of them agreed, disagreed, or had no opinion about the questions. Also, tabulating helps businesses to determine if some people did not answer all the questions, which might have an effect on the accuracy of the results. Tabulating the information in a marketing survey will not help a business determine if some questions were difficult to understand or if the questions required lengthy answers. Surveys often are anonymous and do not require people to provide their names.
+SOURCE:	IM:062
+SOURCE:	Hair, J.F., Jr., Bush, R.P., & Ortinau, D.J. (2000). Marketing research: A practical approach for the new millennium (pp. 501-505). Boston: Irwin/McGraw-Hill.
+
+	55.	D
+Technology is advancing. Marketers must be aware that situations can change and be prepared to make changes in marketing strategies when they are needed. Many factors can necessitate a change in marketing strategy, such as advancements in technology. The development of new products or new ways of doing business might make it necessary for a company to change its marketing strategy in order to be successful. If the economy is stable, consumers are satisfied; and if competition is limited, businesses might successfully use the same marketing strategies for many years.
+SOURCE:	MP:001
+SOURCE:	IM LAP 7—Pick the Mix
+
+	56.	D
+Segment. Mass marketing is not as precise as segment marketing. Event marketing and promotional marketing may involve segments or mass audiences. Direct marketing typically involves segments. But segment marketing is more precise than marketing to the masses.
+SOURCE:	MP:003
+SOURCE:	IM LAP 9—Have We Met?
+
+	57.	B
+Demographics. Demographic segmentation is the division of a market on the basis of its physical and social characteristics. Psychographic segmentation is the division of a market on the basis of consumers' lifestyles and personalities. Geographic segmentation is the division of a market on the basis of where consumers are located. Socioeconomics is not a method of selecting a target market.
+SOURCE:	MP:005
+SOURCE:	Meyer, E.C., & Allen, K.R. (2000). Entrepreneurship and small business management: Teacher's manual (2nd ed.) [pp. 92-93]. New York: Glencoe/McGraw-Hill.
+
+	58.	A
+Opportunities. A situational analysis involves examining and interpreting the environmental factors that affect a business. As a result of considering the environmental factors, a business often is able to identify potential threats in the marketplace, such as increasing competition or a sluggish economy. Once a business identifies the specific threats, it takes steps to turn them into opportunities. For example, if the economy is beginning to slow down, a business might revise its products or offer additional credit plans to appeal to a wider market. Sales strategies are plans of action for achieving sales goals. Objectives are goals to be reached. Accounting tactics are specific actions that will be used to carry out accounting strategies.
+SOURCE:	MP:008
+SOURCE:	Zikmund, W., & d'Amico, M. (2001). Marketing: Creating and keeping customers in an 
+e-commerce world (7th ed.) [pp. 41-42]. Mason, OH: South-Western.
+
+	59.	A
+Product quality and price. Analyzing competitors in a specific market involves evaluating the quality and price of their products. As the result of such an analysis, a new business might find that the competition offers products of medium quality at limited prices. This indicates that a need might exist for higher and lower quality products in various price ranges. Armed with this information, a new business has a better chance to provide products that customers want and need and to compete successfully in a specific market. Before locating in a community, a new business would consider the size and availability of space, and the cost of supplies and equipment. However, these are not factors involved in analyzing competitors. Industry research might be useful, but the training that the industry provides is not a factor in analyzing the competition.
+SOURCE:	MP:012
+SOURCE:	Kuratko, D.F., & Hodgetts, R.M. (2001). Entrepreneurship: A contemporary approach 
+(5th ed.) [pp. 202-207]. Mason, OH: South-Western.
+
+	60.	C
+The shorter the forecast, the more accurate the prediction. Forecasts that project sales beyond one year are less accurate than short-term forecasts due to unpredictable changes that can occur over a longer period of time. Market conditions can vary at any time; therefore, businesses cannot be assured that conditions will remain the same for a year. Longitudinal studies are research efforts that measure certain factors repeatedly over a long period of time. Forecasting methods can be appropriate for periods longer than one year depending on the objectives of the forecast, the business's resources, the purpose(s) of the forecast, and the conditions of the market.
+SOURCE:	MP:013
+SOURCE:	IM LAP 3—Nature of Sales Forecasts
+
+	61.	A
+$47,015. The objectives in a marketing plan are usually intended to lead to an increase in sales. When preparing its marketing plan, a business often establishes the amount it will spend on promotional activities in order to achieve a specific objective. Many businesses base the amount spent on promotion on the amount of sales. If the goal is to increase sales by increasing promotion, the business usually will allocate more money for the promotional budget. To determine how much more a business will spend by increasing the promotional budget, first calculate the existing budget by multiplying current sales by the percentage spent on promotion ($2,350,750 x 7% or .07 = $164,552.50). Then, calculate the amount if the percentage spent on promotion is increased ($2,350,750 x 9% or .09 = $211,567.50). Next, subtract the current amount from the proposed amount to determine the increase ($211,567.50 - $164,552.50 = $47,015).
+SOURCE:	MP:018
+SOURCE:	U.S. Small Business Administration. (n.d.). Marketing plan components: Marketing objectives and strategies. Retrieved August 22, 2007, from http://www.sba.gov/starting_business/marketing/marketingobj.html
+
+	62.	A
+Take corrective action. After a business develops and implements a marketing plan, it needs to know whether the plan was effective in achieving its marketing objectives. Therefore, a business evaluates the performance of its marketing plan to identify problems and take corrective action to solve the problems. If the plan is not performing as expected, a business needs to find out why and then make changes. Perhaps the objectives were unrealistic or the strategies were not clear. Whatever the reasons, the problems need to be corrected for the business to be able to succeed. Scheduling is not an evaluation function. Businesses usually gather accounting data and analyze market price before they develop a marketing plan.
+SOURCE:	MP:022
+SOURCE:	Churchill, G.A., & Peter, J.P. (1998). Marketing: Creating value for customers (2nd ed.) 
+[pp. 543-545]. Irwin/McGraw-Hill.
+
+	63.	D
+Financial reports. Businesses are required to provide a variety of financial reports to many groups of people, such as governments for tax purposes and creditors for lending purposes. Therefore, businesses maintain accounting information that they use to prepare these financial reports. Depending on the size of the business, the accounting information may be simple or complex. Businesses do not use accounting information to prepare operating procedures, inventory controls, or pricing systems.
+SOURCE:	NF:016
+SOURCE:	Cunningham, B.M., Nikolai, L.A., & Bazley, J.D. (2000). Accounting: Information for business decisions (pp. 11-12). Orlando, FL: Harcourt.
+
+	64.	A
+Quality. Roger would have benefited from quality records—records that are accurate and reliable. Archived records (stored for the long-term), digital records (stored in a computer-related medium), and required records (mandated by a governing authority) may or may not be quality records.
+SOURCE:	NF:001
+SOURCE:	NF LAP 1—Record It (Business Records)
+
+	65.	A
+Sprain. A sprain is an injury to muscles or joints caused by twisting or tearing of the ligaments. An open wound involves a break in the skin, such as a paper cut. A strain is an injury to muscles or tendons caused by stretching or overexerting. A hernia is an injury in which part or all of a body organ breaks through surrounding tissue and protrudes.
+SOURCE:	OP:009
+SOURCE:	RM LAP 3—Handling Accidents
+
+	66.	A
+Fraud. Deceiving or cheating an individual or a business out of money or property is fraud. Customers, employees, vendors, and others may commit fraud against a business. There are many types of fraud including internal theft, payroll fraud, and computer fraud. Burglary is any illegal entry into a building to commit a theft. Robbery is theft that involves the use of force, violence, or fear. Pilferage is theft of small sums of money or inexpensive items.
+SOURCE:	OP:013
+SOURCE:	RM LAP 4—Security Precautions
+
+	67.	D
+Quality culture. Businesses need to train accounting department employees so they will understand their jobs and have the ability to work with customers. Employees who know what they are expected to do and how to do it usually create a sense of quality in a business. They are able to function effectively and provide quality service to customers. In return, customers appreciate the quality and continue to buy from the business. Training employees does not necessarily create a secure environment, a friendly atmosphere, or a growth opportunity.
+SOURCE:	OP:019
+SOURCE:	Everard, K.E., & Burrow, J.L. (2001). Business principles and management (11th ed.) 
+[pp. 534-535]. Cincinnati: South-Western.
+
+	68.	A
+Invest elsewhere. Corporations are owned by their stockholders. These businesses are expected to earn money for their owners and to pay them regular dividends on their investments. If a business does not make enough profit to do this, investors are likely to sell their stock and to invest in another company. If a corporation was unable to pay dividends, it is unlikely that stockholders would buy additional shares. Stockholders do not reduce earnings or organize takeovers.
+SOURCE:	OP:025
+SOURCE:	MN LAP 56—Employee Role in Expense Control
+
+	69.	D
+True, budgets provide standards for spending in various categories. The goals set by the budget provide standards by which the business can evaluate its operations. Budgets can signal overspending or underspending in a particular area, which helps the business to control expenses.
+SOURCE:	OP:030
+SOURCE:	Everard, K.E., & Burrow, J.L. (2001). Business principles and management (11th ed.) 
+[p. 392]. Cincinnati: South-Western.
+
+	70.	B
+Repairing fixtures and equipment. Keeping the firm's fixtures and equipment in good repair is a responsibility of maintenance. Individuals in a department or a stockperson will replenish depleted stock and straighten merchandise. Merchandise displays are assembled by the display department or by an employee within the specific department.
+SOURCE:	OP:032
+SOURCE:	Berman, B., & Evans, J.R. (2004). Retail management: A strategic approach (9th ed.) 
+[pp. 318-320]. Upper Saddle River, NJ: Prentice Hall.
+
+	71.	A
+Job shadowing. To obtain information about specific occupations and careers, it is sometimes possible to follow an employee who performs a certain job. This is an example of job shadowing and gives an individual the opportunity to find out exactly what a certain job involves. An individual might follow an accounting department employee for a few days, watch what the employee does, listen to conversations with coworkers, and possibly help with simple tasks. Volunteering involves donating time to complete a project. An internship is training in which schools and businesses cooperate to provide on-the-job practice for learners. Although an individual shadowing an employee might ask questions, following an employee is not an example of interviewing.
+SOURCE:	PD:022
+SOURCE:	Kimbrell, G., & Vineyard, B.S. (2006). Succeeding in the world of work (p. 55). New York: Glencoe/McGraw-Hill.
+
+	72.	C
+Education. The education section of a résumé contains information other than high schools, technical schools, and colleges attended. It is appropriate to include in that section information about any additional training, special licenses or certificates received, and job-related awards and honors. This information is considered to be part of your educational background. The career goals section explains the type of job you are seeking. The experience section describes your work background. The personal data section lists your name, address, phone number, etc.
+SOURCE:	PD:031
+SOURCE:	Bailey, L.J. (2003). Working: Career success for the 21st century (3rd ed.) [pp. 49-50]. Mason, OH: South-Western.
+
+	73.	D
+Reduced stress and frustration. Carrie's immediate problem is that she feels frustrated by not being able to balance her life. Time management can help her reduce the stress and frustration this causes by helping her get more done in less time. Enhanced self-esteem, increased organization, and increased productivity could also result from time management, but they are not currently the most meaningful benefits to Carrie.
+SOURCE:	PD:019
+SOURCE:	OP LAP 1—About Time
+
+	74.	D
+The price must satisfy both buyers and sellers. Buyers want low prices, and sellers want high prices. Both groups must feel that they are getting the most value from the product in order for customers to be satisfied and the business to be successful. Customers associate price with quality. If a price is lower than a customer expects to pay, the customer may not buy. Businesses must be willing to adjust their prices according to circumstances. Selling price includes the cost of the product and all of its associated costs, such as transportation charges and promotion expenses.
+SOURCE:	PI:001
+SOURCE:	PI LAP 2—Pricing
+
+	75.	C
+Pricing. The technology that makes possible pre-printing product packaging with Universal Product Codes (UPCs) simplifies the price marking function. The UPC label is encoded with product information, such as price, to be read by an electronic scanner. The pre-printed data simplify the price marking function because the business does not need to mark a price on each product. The UPC label contains the necessary pricing information. Pre-printed UPC labels do not contain tracking, operating, or selling information.
+SOURCE:	PI:016
+SOURCE:	Farese, L.S., Kimbrell, G., & Woloszyk, C.A. (2002). Marketing essentials (3rd ed.) [p. 432]. Woodland Hills, CA: Glencoe/McGraw-Hill.
+
+	76.	B
+Be lowered. The selling price of products must cover costs. If costs decrease, the business can afford to lower prices. This may result in an increased sales volume and a possible increase in profits. Raising prices routinely or sharply could result in a decrease in sales volume. Prices are likely to remain the same if costs decrease.
+SOURCE:	PI:002
+SOURCE:	PI LAP 3—Factors Affecting Selling Price
+
+	77.	B
+130,200. To calculate break-even in units, first determine the variable-cost margin by subtracting the variable cost per unit from the selling price per unit ($18.00 - $15.50 = $2.50). Next, divide the total fixed costs by the variable-cost margin to obtain break-even ($325,500 ÷ $2.50 = 130,200).
+SOURCE:	PI:006
+SOURCE:	PI LAP 4—Calculating Break-Even
+
+	78.	D
+Marketing strategies. After being introduced on the market, all products move through the life-cycle stages at different rates, requiring different marketing strategies. These stages of the life cycle become the basis for product planning. Marketers must understand how and why competition will change from one stage of the product life cycle to another in order to plan marketing strategies that will be most effective for the product at each stage of its life cycle. Some product characteristics may be modified as a product moves through its life cycle; however, most product characteristics are set during development. Marketers are not free to pick and choose which government regulations they use. A marketing-information management system is an organized way of continually gathering, accessing, synthesizing, evaluating, and disseminating information for use in making business decisions.
+SOURCE:	PM:001
+SOURCE:	PP LAP 5—Product/Service Planning
+
+	79.	C
+Ethical. When a business exhibits ethical behavior, it is being socially responsible because it is considering society's well-being. A business that reduces its use of natural resources is exhibiting an ethical attitude because it is taking steps to preserve the natural environment by not wasting resources or damaging the atmosphere. A business that preserves the environment's natural resources is not necessarily exhibiting logical, authentic, or conservative attitudes or beliefs.
+SOURCE:	PM:040
+SOURCE:	Farese, L.S., Kimbrell, G., & Woloszyk, C.A. (2002). Marketing essentials (3rd ed.) 
+[pp. 312-313]. Woodland Hills, CA: Glencoe/McGraw-Hill.
+
+	80.	B
+Employees. A business uses many resources to generate ideas for new products. Employees are internal resources for product ideas. Competitors, customers, and agencies are external resources.
+SOURCE:	PM:128
+SOURCE:	Longenecker, J.G., Moore, C.W., & Petty, J.W. (2003). Small business management: An entrepreneurial emphasis (12th ed.) [p. 379]. Cincinnati: Thomson/South-Western.
+
+	81.	A
+Trends. A product opportunity is a situation in which a business acts on the chance to provide a good or service to a market segment that wants and is willing to pay for the product. One way that a business recognizes product opportunities is to monitor trends by using a systematic or step-by-step process. A trend is the general direction in which people or events are moving. A business often monitors many types of trends including demographic, psychographic, and economic trends. Once a business identifies a trend, it can develop products to satisfy the needs of a particular market. Monitoring personnel, finances, and plans does not generally help a business to recognize product opportunities.
+SOURCE:	PM:136
+SOURCE:	Clark, B., Sobel, J., & Basteri, C.G. (2006). Marketing dynamics (pp. 242-244). Tinley Park, IL: Goodheart-Willcox.
+
+	82.	D
+Increased profits. Companies that build a reputation for carrying out the terms of their warranties and guarantees generally have higher sales, more repeat customers, and greater profits. The other alternatives are benefits to customers. Legal recourse means that customers are entitled to file a lawsuit against a company which does not fulfill its obligation under a warranty or a guarantee. Free repairs are offered customers during a specified time period at no cost to them. Customers' anxiety about purchases are reduced because they know any problem connected with the purchase will be taken care of by the seller.
+SOURCE:	PM:020
+SOURCE:	PP LAP 4—Warranties and Guarantees
+
+	83.	A
+Coca-Cola adding Caffeine-Free Diet Coke. Brand extension involves using successful brands to introduce new products. Coke added another drink under the Coke name, thereby engaging in brand extension. Packaging smaller portions of chicken for the elderly does not involve adding another product. Selling Blue Bell ice cream is an example of Kroger adding to its product mix. Installing an ATM machine involves adding more services.
+SOURCE:	PM:003
+SOURCE:	PP LAP 3—Product Mix
+
+	84.	D
+Registered trademark. A registered trademark is a brand that has been registered with the appropriate government agency for legal protection. In the U.S.,  trademark rights are protected by the Lanham Act of 1946. Brand licensing is legal authorization by the brand owner to allow another company to use the brand in exchange for a fee. Brand positioning refers to marketers creating a certain image or impression of a brand as compared to those of competitors' brands. Descriptive names are brand names which have fallen into everyday use so that the brand is used to describe every product in the brand's product category.
+SOURCE:	PM:021
+SOURCE:	PM LAP 10—Building Your Business's Brand
+
+	85.	C
+Attributes. Positioning is a product mix strategy that a business uses to create a certain image or impression of a product in the minds of the consumers. An attribute is a characteristic of something. Businesses often position products by emphasizing attributes such as materials, features, and construction methods in relation to the product's safety. For example, an automobile manufacturer that places side airbags in all of its models might use this safety feature to position its line of vehicles as safe and reliable modes of transportation. Price is a positioning strategy that stresses the amount of money the customer pays for a product. Class is a positioning strategy that often associates status with the product. The competition positioning strategy compares a product with other similar products in the marketplace.
+SOURCE:	PM:043
+SOURCE:	Boone, L.E., & Kurtz, D.L. (2004). Contemporary marketing (11th ed.) [p. 246]. Mason, OH: Thomson/South-Western.
+
+	86.	A
+Evaluate its effectiveness. To develop a brand, a business should follow a step-by-step process. The final step is to determine if the brand is doing what the business wants it to do or evaluate its effectiveness. Marketing research methods can help the business determine if its brand is successful. Developing the brand's promise, describing the brand's personality, and selecting a catchy name are steps that a business takes to build the brand and must be done before it can measure the brand's effectiveness.
+SOURCE:	PM:126
+SOURCE:	PM LAP 10—Building Your Business's Brand
+
+	87.	D
+Drop a product. Businesses consider many factors when planning the type of merchandise to stock or keep on the shelves. If a particular product is costly to purchase and promote as well as difficult to sell, a business might decide to drop the product. In this situation, the business might have too high of an investment in a product that does not turn over fast enough to generate a sufficient profit. The answer to the problem is to drop the product. Businesses do not increase inventory or add shelf space for products that have a low turnover rate. The business would not eliminate personnel.  
+SOURCE:	PM:201
+SOURCE:	Berman, B., & Evans, J.R. (2004). Retail management: A strategic approach (9th ed.) 
+[p. 353]. Upper Saddle River, NJ: Prentice Hall.
+
+	88.	C
+Provides jobs. Promotion benefits the economy by providing many job opportunities. There are more than 10 million people employed in the field of promotion. Promotion also encourages demand for a product which in turn helps to create a need for mass production. The need to produce a product in the desired quantity increases the number of jobs required for production. Creating images and building confidence are ways that promotion benefits businesses. Offering information benefits consumers.
+SOURCE:	PR:001
+SOURCE:	PR LAP 2—Promotion
+
+	89.	A
+Announcing a back-to-school sale. Ads that address public issues, such as the environment, the drug problem, or voter apathy, are intended to build or create goodwill for the firm. A back-to-school sale is a promotional ad that focuses on selling specific merchandise.
+SOURCE:	PR:002
+SOURCE:	PR LAP 4—Know Your Options (Types of Promotion)
+
+	90.	A
+Stereotypes. A stereotype is a set image or an assumption about a person or thing. An advertisement that portrays a woman in a traditional female role (e.g., mopping the kitchen floor) is reinforcing a stereotype. Stereotyping women in such roles may offend some people because many males and females now share the responsibility of household chores. Discrimination is the unfair treatment of a person or group based on the person's or group's characteristics. Some people consider an advertisement that portrays a woman in a traditional female role as a gender-based form of discrimination rather than age-based discrimination. Socialization refers to the way in which a community organizes itself. Equity label is a fictitious term.
+SOURCE:	PR:099
+SOURCE:	Semenik, R.J. (2002). Promotion and integrated marketing communications (p. 216). Mason, OH: South-Western.
+
+	91.	D
+Comparison advertising. A comparison advertisement is a promotional message in which the advertiser pays for a message that compares its product to another company's similar product. The advertiser's intent is to focus on the positive attributes of its product while pointing out negative aspects of its competitor's product. Sometimes, advertisers make false or deceptive statements about the competitors' products, which can negatively impact the competitors' businesses. To help maintain a fair competitive environment, governments often regulate the way businesses can use comparisons in their advertising efforts. Bait-and-switch refers to an advertising tactic that businesses use that includes promoting a low-priced item to attract customers and then trying to sell a higher priced item to them. However, bait-and-switch contests do not exist. Direct mail and telemarketing sales are not specific promotional activities that governments regulate for the primary purpose of maintaining a fair competitive environment for businesses.
+SOURCE:	PR:101
+SOURCE:	O'Guinn, T.C., Allen, C.T., & Semenik, R.J. (2003). Advertising and integrated brand promotion (3rd ed.) [p. 131]. Mason, OH: South-Western.
+
+	92.	D
+Illustration. An illustration is a photograph, drawing, painting, or graphic such as a chart, table, or graph. An illustration is an important element of a print advertisement because it is noticed first. The illustration attracts attention, arouses interest, and often creates desire by showing the product and/or its uses and benefits. A testimonial is a statement by an identified user of a product, proclaiming the benefits received from the use of the product. Identification is the element of an advertisement that identifies the product or the advertiser and may include additional information about the business. Subheadline is the text that continues or clarifies the thought expressed in the headline.
+SOURCE:	PR:014
+SOURCE:	PR LAP 7—Parts of Print Ads
+
+	93.	B
+Carry out the theme of. Displays should be built around the same theme as that of the firm's advertisements. The theme of the ads and the displays should be clear to viewers and give them the same message about the product(s). Displays cannot take the place of advertisements since they serve different functions. Displays should not contrast or compete with advertisements but serve as reinforcements in the overall promotional program.
+SOURCE:	PR:076
+SOURCE:	Farese, L.S., Kimbrell, G., & Woloszyk, C.A. (2002). Marketing essentials (3rd ed.) 
+[pp. 302-304]. Woodland Hills, CA: Glencoe/McGraw-Hill.
+
+	94.	D
+Selling. Selling is a marketing function which involves responding to consumer needs and wants through planned, personalized communication that influences purchase decisions and enhances future business opportunities. An example of selling is a business employee helping customers decide what type of products best satisfy their particular needs. Selling enables customers to receive help with their buying problems. Coaching is an on-the-job instructional method in which an employee is assigned a "coach" to set goals and give assistance. Directing is the management function of providing guidance to workers and work projects. Planning is the management function that decides what will be done and how it will be accomplished.
+SOURCE:	SE:017
+SOURCE:	SE LAP 117—Sell Away (The Nature and Scope of Selling)
+
+	95.	A
+Build a clientele. Without a group of clients who return regularly, it is likely a business will fail. Therefore, a business needs to build a loyal clientele to be financially successful. A business's financial success does not depend on its ability to plan advertising, offer free delivery service, or sell a few product lines.
+SOURCE:	SE:828
+SOURCE:	SE LAP 115—Keep Them Loyal (Building Clientele)
+
+	96.	C
+Spreadsheet. Spreadsheet computer programs (e.g., Excel, Quatro Pro) are used to organize and calculate numerical information. Spreadsheets can be used in sales to track and evaluate sales volume and sales dollars. Word-processing software is primarily used to create text documents such as contracts, memos, and letters. Presentation software is generally used by salespeople when making a sales or product presentation to customers. Graphic and design software is often used to create catalogs, brochures, and other professional illustrations.
+SOURCE:	SE:107
+SOURCE:	Farese, L.S., Kimbrell, G., & Woloszyk, C.A. (2002). Marketing essentials (3rd ed.) 
+[pp. 162-165]. Woodland Hills, CA: Glencoe/McGraw-Hill.
+
+	97.	D
+Objections. An objection is a point of difference between a customer and a salesperson that may prevent a sale, or the customer's reason for not buying. A salesperson who stays up to date on the information provided in company promotional materials usually is able to effectively handle customers' objections and often make the sale. The promotional materials provide the salesperson with selling information that often helps to overcome customers' objections. Assumptions are taking something for granted. Compliments are something said in admiration or praise. Suggestions are ideas.
+SOURCE:	SE:062
+SOURCE:	Burrow, J.L. (2006). Marketing: Instructor's wraparound edition (2nd ed.) [pp. 465-466]. Mason, OH: Thomson/South-Western.
+
+	98.	A
+Hidden. Hidden benefits are advantages that cannot be seen or understood without the assistance of a salesperson. The safety of some products is a benefit that may not be apparent unless the salesperson explained it. The salesperson may need to point out certain product features and explain why those features make the product safe in order to describe the benefits. Obvious benefits are advantages that need little explanation by the salesperson. An exclusive benefit is the only one of its kind. Costly is not a type of benefit.
+SOURCE:	SE:109
+SOURCE:	SE LAP 113—Find Features, Boost Benefits (Feature-Benefit Selling)
+
+	99.	C
+Job standards. Job standards are established specifications used to measure the productivity of employees. Accounting department managers often set standards for jobs and make these standards targets for employees to achieve. Employee performance is measured against these standards, and corrections are made if they are needed. Hiring objectives are goals to be reached in the selection of new employees. Diversity quotas are specific goals to be met in minority hiring. Expense budgets are estimates of what expenses will be for a specific period of time.
+SOURCE:	SM:001
+SOURCE:	BA LAP 6—Manage This!
+
+	100.	D
+Taking action to create marketing opportunities. Being proactive is the process of adapting to the environment in advance of the occurrence of events. This means taking advantage of opportunities rather than reacting to changes or problems that occur. A proactive business is engaged in continuous planning rather than watching for changes or reacting to competitors' changes. A proactive business may use a creative promotional mix, but that is not a proactive characteristic.
+SOURCE:	SM:011
+SOURCE:	MN LAP 43—External Planning Considerations
+
